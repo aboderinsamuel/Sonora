@@ -1,8 +1,8 @@
-# MW Spotify Clone
+# Sonora
 
-A modern, feature-rich Spotify clone built with React, TypeScript, and Tailwind CSS. This application demonstrates real-world music streaming functionality with a beautiful, responsive UI.
+Excited to share that I’m building Sonora! This open-source project is designed specifically for beat producers and sound creators to share their work with audiences like film producers and anyone seeking unique, relaxing audio.
 
-<img src="https://i2.paste.pics/e5f386f6c3d3451cbfc2abd53aefbbdd.png?rand=Ax1RQK6fXb" alt="MW Spotify Clone" width="600" />
+<img src="https://i2.paste.pics/e5f386f6c3d3451cbfc2abd53aefbbdd.png?rand=Ax1RQK6fXb" alt="Sonora-music" width="600" height="400" />
 
 ## 🎵 Features
 
@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💫 Live Demo
 
-Visit the live demo at: [MW Spotify Clone Demo](https://your-demo-url.netlify.app)
+Visit the live demo at: [Sonora Demo](https://your-demo-url.netlify.app)
 
 ## 📱 Screenshots
 
