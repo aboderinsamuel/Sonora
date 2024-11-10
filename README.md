@@ -2,7 +2,7 @@
 
 Excited to share that I’m building Sonora! This open-source project is designed specifically for beat producers and sound creators to share their work with audiences like film producers and anyone seeking unique, relaxing audio.
 
-<img src="https://i2.paste.pics/e5f386f6c3d3451cbfc2abd53aefbbdd.png?rand=Ax1RQK6fXb" alt="Sonora-music"/>
+<img src="https://i2.paste.pics/e5f386f6c3d3451cbfc2abd53aefbbdd.png" alt="Sonora-music"/>
 
 ## 🎵 Features
 
@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💫 Live Demo
 
-Visit the live demo at: [Sonora Demo](https://your-demo-url.netlify.app)
+Visit the live demo at: [Sonora Demo](https://sonora01.netlify.app/)
 
 ## 📱 Screenshots
 
