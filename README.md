@@ -28,6 +28,11 @@ Excited to share that I’m building Sonora! This open-source project is designe
 - **Notifications**: React Hot Toast
 - **Build Tool**: Vite
 
+## 💫 Live Demo
+
+Visit the live demo at: [Sonora Demo](https://sonora01.netlify.app/)
+
+
 ## 📦 Installation
 
 1. Clone the repository:
@@ -139,10 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Implement offline mode
 - [ ] Add collaborative playlists
 - [ ] Enhance search with filters
-
-## 💫 Live Demo
-
-Visit the live demo at: [Sonora Demo](https://sonora01.netlify.app/)
 
 ## 📱 Screenshots
 
